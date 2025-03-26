@@ -1,13 +1,13 @@
 
 # **Hyper Frontend Developer Case - Recep Terzi**
 
-Öncelikle geri dönüşünüz için teşekkür ederim. Bu projede tasarımsal değişiklikler yapmadım ve belirtilen case maddelerine odaklanarak geliştirme sağladım. Proje, Next.js ve pnpm kullanılarak geliştirilmiştir.
+Öncelikle geri dönüşünüz için teşekkür ederim. Bu projede tasarımsal anlamda çok uğraş harcamadım ve belirtilen case maddelerine odaklanarak geliştirme sağladım. Proje, Next.js ve pnpm kullanılarak geliştirme sağladım.
 
 ### **1. Aşama**
 
-Projedeki tüm gereksinimleri yerine getirdim. API veri çekme işlemini `axios` ile gerçekleştirdim. State management için `Redux Toolkit` kullandım ve stil tasarımında `tailwindcss` tercih ettim.
+Projenin ilk maddesindeki tüm gereksinimleri yerine getirdim. API veri çekme işlemini `axios` ile gerçekleştirdim. State management için `Redux Toolkit` kullandım ve css tarafında `tailwindcss` tercih ettim.
 
-Kod tekrarını minimize etmek amacıyla her bir bileşeni ayrı birer component olarak oluşturdum. Ürün detaylarını ekrana başarıyla bastırıp, kullanıcıların ürünleri sepete eklemelerine imkan tanıdım. Sepete eklenen ürünlerin sayısını, sepet ikonunda görsel olarak gösterilmesini sağladım.
+Kod tekrarını minimize etmek amacıyla her bir bileşeni ayrı birer component olarak oluşturdum. Ürün detaylarını ekrana başarıyla bastırıp, kullanıcıların ürünleri sepete eklemelerini sağladım. Sepete eklenen ürünlerin sayısını, sepet ikonunun üzerinde görsel olarak gösterilmesini sağladım.
 
 ### **2. Aşama**
 
