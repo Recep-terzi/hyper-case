@@ -1,7 +1,7 @@
 
 # **Hyper Frontend Developer Case - Recep Terzi**
 
-Öncelikle geri dönüşünüz için teşekkür ederim. Bu projede tasarımsal anlamda çok uğraş harcamadım ve belirtilen case maddelerine odaklanarak geliştirme sağladım. Proje, Next.js ve pnpm kullanılarak geliştirme sağladım.
+Öncelikle geri dönüşünüz için teşekkür ederim. Bu projede tasarımsal anlamda çok uğraş harcamadım ve belirtilen case maddelerine odaklanarak geliştirme sağladım. Proje, `Next.js`, `pnpm` ve `Typescript` kullanılarak geliştirme sağladım.
 
 ### **1. Aşama**
 
